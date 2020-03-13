@@ -6,7 +6,7 @@ address below. Driver development for new ASIC only bitcoin hardware can be
 suitably sponsored.
 
 Con Kolivas <kernel@kolivas.org>
-15qSxP1SQcUX3o4nhkfdbgyoWEFMomJ4rZ
+33Msnkcgqf3tghX1WqtSgJsPtiMpWjvTMv
 
 NOTE: This code is licensed under the GPLv3. This means that the source to any
 modifications you make to this code MUST be provided by law if you distribute
@@ -57,7 +57,7 @@ cgminer -o stratum+tcp://pool:port -u username -p password
 
 Solo mining to local bitcoind:
 
-cgminer -o http://localhost:8332 -u username -p password --btc-address 15qSxP1SQcUX3o4nhkfdbgyoWEFMomJ4rZ
+cgminer -o http://localhost:8332 -u username -p password --btc-address 33Msnkcgqf3tghX1WqtSgJsPtiMpWjvTMv
 
 The list of proxy types are:
  http:    standard http 1.1 proxy
